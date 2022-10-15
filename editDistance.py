@@ -1,3 +1,9 @@
+########################################################################################################################
+# HOW TO RUN THE PROGRAM:
+# This program uses Python. To run the program, simply type 'python editDistance.py' on your console.
+########################################################################################################################
+
+
 # Between our diagonal, left, and upper tiles, which one contains the largest value?
 # (Process used when calculating edit distance)
 def getMin(diagonal, left, up):
